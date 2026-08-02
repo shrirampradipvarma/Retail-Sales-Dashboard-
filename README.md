@@ -86,3 +86,6 @@ Key business outcomes include:<br>
   * Track month-over-month and year-over-year growth using time-intelligence metrics.<br>
   * Evaluate return rates, discount trends, and customer satisfaction to improve operational efficiency.<br>
   * Empower managers with interactive filters and drill-down capabilities for faster, data-driven decision-making.<br>
+
+5. Screenshots / Demos - <br>
+Picture - 
