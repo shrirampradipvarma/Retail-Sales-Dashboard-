@@ -88,4 +88,4 @@ Key business outcomes include:<br>
   * Empower managers with interactive filters and drill-down capabilities for faster, data-driven decision-making.<br>
 
 5. Screenshots / Demos - <br>
-Picture - 
+Dashboard Preview - https://github.com/shrirampradipvarma/Retail-Sales-Dashboard-/blob/main/Dashboard%20.png
