@@ -87,6 +87,6 @@ Key business outcomes include:<br>
   * Evaluate return rates, discount trends, and customer satisfaction to improve operational efficiency.<br>
   * Empower managers with interactive filters and drill-down capabilities for faster, data-driven decision-making.<br>
 
-5. Screenshots / Demos - <br>
-Dashboard Preview - [Dashboard Preview]()
+5. Screenshots / Demos -
+[Dashboard Preview](https://github.com/shrirampradipvarma/Retail-Sales-Dashboard-/blob/main/Dashboard%20.png)
 
